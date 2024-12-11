@@ -1,4 +1,0 @@
-Fichier 1 texte 1 cdp local
-Fichier 1 texte 2 cdp local
-Fichier 1 texte 3 cdp local
-Fichier 1 texte 4 cdp local

@@ -1,3 +1,10 @@
+<?php 
+
+echo "coucou";
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
